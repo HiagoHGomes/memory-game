@@ -5,7 +5,7 @@
 
 
 ### Inicio do jogo:
-<img src="public/Inicio.png" width="500px">
+<img src="public/Inicio.png" width="800px">
 
 ### Jogo Finalizado:
-<img src="public/fim.png" width="500px">
+<img src="public/fim.png" width="800px">
